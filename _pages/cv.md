@@ -29,7 +29,7 @@ Research Experience
   * *Oct 2020 – Present*,	London (UK)
   * PhD Project “The cognitive and computational characteristics of threat avoidance” 	
 
-Computational Unit of Motivation, Brain, Behaviour Lab, at Paris Brain and Spine Institute	
+* Computational Unit of Motivation, Brain, Behaviour Lab, at Paris Brain and Spine Institute	
   * *Sept 2019 – Sept 2020*, Paris (FR)
   * MSc Project “The effect of motivation on the regulation of emotional attention”	
 
@@ -37,20 +37,20 @@ Metalab, UCL Wellcome Centre for Human Neuroimaging
   * *Oct 2018 – Aug 2019*, London (UK)
   * MSc Project “The effect of mood on confidence and metacognition”  
 
-Samandouras Lab, National Hospital of Neurology and Neurosurgery
+* Samandouras Lab, National Hospital of Neurology and Neurosurgery
   * *Aug 2018 – Sept 2019*, London (UK)
   * Graduate Research Assistant	
 
-Javadi Lab, Cognitive Enhancement Lab   	
+* Javadi Lab, Cognitive Enhancement Lab   	
   * *Jan 2018 – Aug 2018*, Canterbury (UK)
   * Undergraduate Research Assistant	
 
 Publications
 ======
-* Sporrer, J.K., Brookes, J., Hall , S., Zabbah, S., Serratos Hernandez, U.D., Bach, D.R. (2022). Computational characteristics of human escape decisions. doi: 10.31234/osf.io/z52tq
-* Bach, D.R., Sporrer, J.K., Abend, R., Beckers, T., Dunsmoor, J.E., Fullana, M.A., Gamer, M., Gee, D.G., Hamm, A., et al. (2022). Consensus design of a calibration experiment for human fear conditioning. doi:10.31234/osf.io/2j9c7
-* Sefcikova, V., Sporrer, J.K., Juvekar, P., Golby, A., Samandouras, G. (2022). Converting sounds to meaning with ventral semantic language networks; integration of interdisciplinary outputs on brain connectivity, direct electrical stimulation, and clinical disconnection syndromes. Brain Structure and Function, 1-20.
-* Sefcikova, V., Sporrer, J.K., Ekert, J.O., Kirkman, M.A., Samandouras, G. (2020). High interrater variability in intraoperative language testing and interpretation in awake brain mapping among neurosurgeons and neuropsychologists: An emerging need for standardization. World Neurosurgery, 141, e651–e660. 
+Sporrer, J.K., Brookes, J., Hall , S., Zabbah, S., Serratos Hernandez, U.D., Bach, D.R. (2022). Computational characteristics of human escape decisions. doi: 10.31234/osf.io/z52tq
+Bach, D.R., Sporrer, J.K., Abend, R., Beckers, T., Dunsmoor, J.E., Fullana, M.A., Gamer, M., Gee, D.G., Hamm, A., et al. (2022). Consensus design of a calibration experiment for human fear conditioning. doi:10.31234/osf.io/2j9c7
+Sefcikova, V., Sporrer, J.K., Juvekar, P., Golby, A., Samandouras, G. (2022). Converting sounds to meaning with ventral semantic language networks; integration of interdisciplinary outputs on brain connectivity, direct electrical stimulation, and clinical disconnection syndromes. Brain Structure and Function, 1-20.
+Sefcikova, V., Sporrer, J.K., Ekert, J.O., Kirkman, M.A., Samandouras, G. (2020). High interrater variability in intraoperative language testing and interpretation in awake brain mapping among neurosurgeons and neuropsychologists: An emerging need for standardization. World Neurosurgery, 141, e651–e660. 
 
 For links, see "Publications" tab or my [Google Scholar] (https://scholar.google.com/citations?user=J5c7EoUAAAAJ&hl=en)
   
@@ -87,18 +87,16 @@ Public Engagement
 ======
 * UCL Neuroscience Careers Network, Communications Officer 			             
   * *Nov 2020 – Present*
-  * Seeking to promote the professional development of UCL neuroscientists outside of academia 
-
+  * Seeking to promote the professional development of UCL neuroscientists outside of academia
 * Entrepreneur First, Student Partner  						           
   * *Dec 2020 – Jun 2021*
   * Organised events to bridge the gap between academia and entrepreneurship
-  
 * In2ScienceUK, Speaker 									   
   * *Aug 2019*
   * Encouraged A-level students to join STEM and research 
 
 Skills
 ======
-* Programming Languages: R, R shiny, MATLAB, Python, JavaScript, HTML, CSS, PHP, SQL
-* Mathematics: Linear Algebra, Advanced Statistics, Machine Learning, Reinforcement Learning
-* Languages: French (Native), German (Native), English (Fluent)
+* **Programming Languages**: R, R shiny, MATLAB, Python, JavaScript, HTML, CSS, PHP, SQL
+* **Mathematics**: Linear Algebra, Advanced Statistics, Machine Learning, Reinforcement Learning
+* **Languages**: French (Native), German (Native), English (Fluent)
