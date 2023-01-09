@@ -28,25 +28,22 @@ Research Experience
 * Bachlab, Max Planck UCL Centre for Computational Psychiatry
   * *Oct 2020 – Present*,	London (UK)
   * PhD Project “The cognitive and computational characteristics of threat avoidance” 	
-
 * Computational Unit of Motivation, Brain, Behaviour Lab, at Paris Brain and Spine Institute	
   * *Sept 2019 – Sept 2020*, Paris (FR)
   * MSc Project “The effect of motivation on the regulation of emotional attention”	
-
 * Metalab, UCL Wellcome Centre for Human Neuroimaging
   * *Oct 2018 – Aug 2019*, London (UK)
-  * MSc Project “The effect of mood on confidence and metacognition”  
-
+  * MSc Project “The effect of mood on confidence and metacognition” 
 * Samandouras Lab, National Hospital of Neurology and Neurosurgery
   * *Aug 2018 – Sept 2019*, London (UK)
   * Graduate Research Assistant	
-
 * Javadi Lab, Cognitive Enhancement Lab   	
   * *Jan 2018 – Aug 2018*, Canterbury (UK)
   * Undergraduate Research Assistant	
 
 Publications
 ======
+
 1. Sporrer, J.K., Brookes, J., Hall , S., Zabbah, S., Serratos Hernandez, U.D., Bach, D.R. (2022). Computational characteristics of human escape decisions. doi: 10.31234/osf.io/z52tq
 2. Bach, D.R., Sporrer, J.K., Abend, R., Beckers, T., Dunsmoor, J.E., Fullana, M.A., Gamer, M., Gee, D.G., Hamm, A., et al. (2022). Consensus design of a calibration experiment for human fear conditioning. doi:10.31234/osf.io/2j9c7
 3. Sefcikova, V., Sporrer, J.K., Juvekar, P., Golby, A., Samandouras, G. (2022). Converting sounds to meaning with ventral semantic language networks; integration of interdisciplinary outputs on brain connectivity, direct electrical stimulation, and clinical disconnection syndromes. Brain Structure and Function, 1-20.
@@ -85,6 +82,7 @@ Conferences
     
 Public Engagement
 ======
+
 * UCL Neuroscience Careers Network, Communications Officer 			             
   * *Nov 2020 – Present*
   * Seeking to promote the professional development of UCL neuroscientists outside of academia
@@ -97,6 +95,7 @@ Public Engagement
 
 Skills
 ======
+
 * **Programming Languages**: R, R shiny, MATLAB, Python, JavaScript, HTML, CSS, PHP, SQL
 * **Mathematics**: Linear Algebra, Advanced Statistics, Machine Learning, Reinforcement Learning
 * **Languages**: French (Native), German (Native), English (Fluent)
