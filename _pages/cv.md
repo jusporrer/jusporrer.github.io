@@ -33,7 +33,7 @@ Research Experience
   * *Sept 2019 – Sept 2020*, Paris (FR)
   * MSc Project “The effect of motivation on the regulation of emotional attention”	
 
-Metalab, UCL Wellcome Centre for Human Neuroimaging
+* Metalab, UCL Wellcome Centre for Human Neuroimaging
   * *Oct 2018 – Aug 2019*, London (UK)
   * MSc Project “The effect of mood on confidence and metacognition”  
 
@@ -47,10 +47,10 @@ Metalab, UCL Wellcome Centre for Human Neuroimaging
 
 Publications
 ======
-Sporrer, J.K., Brookes, J., Hall , S., Zabbah, S., Serratos Hernandez, U.D., Bach, D.R. (2022). Computational characteristics of human escape decisions. doi: 10.31234/osf.io/z52tq
-Bach, D.R., Sporrer, J.K., Abend, R., Beckers, T., Dunsmoor, J.E., Fullana, M.A., Gamer, M., Gee, D.G., Hamm, A., et al. (2022). Consensus design of a calibration experiment for human fear conditioning. doi:10.31234/osf.io/2j9c7
-Sefcikova, V., Sporrer, J.K., Juvekar, P., Golby, A., Samandouras, G. (2022). Converting sounds to meaning with ventral semantic language networks; integration of interdisciplinary outputs on brain connectivity, direct electrical stimulation, and clinical disconnection syndromes. Brain Structure and Function, 1-20.
-Sefcikova, V., Sporrer, J.K., Ekert, J.O., Kirkman, M.A., Samandouras, G. (2020). High interrater variability in intraoperative language testing and interpretation in awake brain mapping among neurosurgeons and neuropsychologists: An emerging need for standardization. World Neurosurgery, 141, e651–e660. 
+1. Sporrer, J.K., Brookes, J., Hall , S., Zabbah, S., Serratos Hernandez, U.D., Bach, D.R. (2022). Computational characteristics of human escape decisions. doi: 10.31234/osf.io/z52tq
+2. Bach, D.R., Sporrer, J.K., Abend, R., Beckers, T., Dunsmoor, J.E., Fullana, M.A., Gamer, M., Gee, D.G., Hamm, A., et al. (2022). Consensus design of a calibration experiment for human fear conditioning. doi:10.31234/osf.io/2j9c7
+3. Sefcikova, V., Sporrer, J.K., Juvekar, P., Golby, A., Samandouras, G. (2022). Converting sounds to meaning with ventral semantic language networks; integration of interdisciplinary outputs on brain connectivity, direct electrical stimulation, and clinical disconnection syndromes. Brain Structure and Function, 1-20.
+4. Sefcikova, V., Sporrer, J.K., Ekert, J.O., Kirkman, M.A., Samandouras, G. (2020). High interrater variability in intraoperative language testing and interpretation in awake brain mapping among neurosurgeons and neuropsychologists: An emerging need for standardization. World Neurosurgery, 141, e651–e660. 
 
 For links, see "Publications" tab or my [Google Scholar] (https://scholar.google.com/citations?user=J5c7EoUAAAAJ&hl=en)
   
